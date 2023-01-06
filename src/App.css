@@ -1,0 +1,13 @@
+.App {
+  font-size: 2em;
+}
+
+.App textarea {
+  height: 6em;
+  font-size: 0.8em;
+}
+
+.App button {
+  padding: 10px 25px;
+  font-size: 1em;
+}
